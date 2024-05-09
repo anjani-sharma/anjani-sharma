@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greeting!
+The projects i have added to my repository are representative. I have led and consulted on numerous Data Science and Generative AI project as a lead Data Scienctist however most of them have NDA and i cannot update the actual project details hence have created these representative projects for your review
 
 <!--
 **anjani-sharma/anjani-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
